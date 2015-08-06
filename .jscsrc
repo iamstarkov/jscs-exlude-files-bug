@@ -1,0 +1,7 @@
+{
+  "plugins": ["jscs-config-nordnet"],
+  "preset": "nordnet",
+  "excludeFiles": [
+    "app/templates/_index.test.js"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "jscs-exlude-files-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "jscs": "jscs app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jscs": "^2.0.3",
+    "jscs": "^2.0.0",
+    "jscs-config-nordnet": "0.0.2"
+  }
+}

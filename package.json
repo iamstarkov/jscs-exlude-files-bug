@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "jscs": "jscs app",
-    "test": "npm run jscs"
+    "test": "cat .jscsrc && npm run jscs"
   },
   "keywords": [],
   "author": "",

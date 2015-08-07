@@ -1,4 +1,4 @@
-# jscs-exlude-files-bug
+# jscs-exlude-files-bug [![Build Status](https://travis-ci.org/iamstarkov/jscs-exlude-files-bug.svg?branch=master)](https://travis-ci.org/iamstarkov/jscs-exlude-files-bug)
 
 ```
 git clone git@github.com:iamstarkov/jscs-exlude-files-bug.git

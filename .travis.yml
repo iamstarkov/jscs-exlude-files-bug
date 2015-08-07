@@ -1,3 +1,5 @@
 language: node_js
+before_script:
+  - cat .jscsrc
 node_js:
   - iojs

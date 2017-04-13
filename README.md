@@ -1,5 +1,7 @@
 # jscs-exlude-files-bug [![Build Status](https://travis-ci.org/iamstarkov/jscs-exlude-files-bug.svg?branch=master)](https://travis-ci.org/iamstarkov/jscs-exlude-files-bug)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/jscs-exlude-files-bug.svg)](https://greenkeeper.io/)
+
 ```
 git clone git@github.com:iamstarkov/jscs-exlude-files-bug.git
 cd jscs-exlude-files-bug
